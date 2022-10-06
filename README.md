@@ -9,6 +9,9 @@
 
 ## About <a name = "about"></a>
 
+This text can be **embedded** into Markdown:
+<i class="fa fa-refresh fa-spin fa-lg"></i> Refresh Page
+
  Exercice tiré du site [CODIER](https://codier.io/challenge/ByzfclFKL) , qui une platforme de défis pour les développeurs front-end.
 
 
